@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-07T16:28:58.639Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.6.0" etag="htoB6NWDP8Jhs8h0s98W" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-07T16:29:36.219Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.6.0" etag="yMh0KY3eBFpXFa8TJyT2" type="github">
   <diagram id="g7fYQ90FhEnoCOdFYeij" name="Page-1">
     <mxGraphModel dx="1694" dy="971" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -33,7 +33,7 @@
         <mxCell id="soGgQo1d9cTRyv0vqCLj-11" value="SP-Fr /&lt;br&gt;CIRE Guyane" style="html=1;dashed=0;whitespace=wrap;" vertex="1" parent="1">
           <mxGeometry x="660" y="539.99" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="soGgQo1d9cTRyv0vqCLj-12" value="CNR Paludisme" style="html=1;dashed=0;whitespace=wrap;" vertex="1" parent="1">
+        <mxCell id="soGgQo1d9cTRyv0vqCLj-12" value="IPG/CNR&lt;br&gt;Paludisme" style="html=1;dashed=0;whitespace=wrap;" vertex="1" parent="1">
           <mxGeometry x="424" y="360" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="soGgQo1d9cTRyv0vqCLj-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=none;" edge="1" parent="1" source="soGgQo1d9cTRyv0vqCLj-49" target="soGgQo1d9cTRyv0vqCLj-12">
