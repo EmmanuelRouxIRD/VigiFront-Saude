@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2022-12-08T16:40:41.733Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="TH096yzqYhnFgstvMAr1" version="20.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-08T16:46:13.005Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="elZV0JgmixDIrIWKNoBI" version="20.6.1" type="github">
   <diagram id="doegmiYLPW8GhtTB-VEN" name="Page-1">
-    <mxGraphModel dx="3590" dy="2179" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="6171" dy="3526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="uglfD_iep2MTShB7ONu6-107" value="&lt;b&gt;&lt;i&gt;Legenda&lt;/i&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;align=center;verticalAlign=top;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="320" y="-360" width="140" height="230" as="geometry" />
+        </mxCell>
         <mxCell id="uglfD_iep2MTShB7ONu6-101" value="" style="html=1;dashed=1;whitespace=wrap;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-194" y="70" width="284" height="120" as="geometry" />
         </mxCell>
@@ -61,9 +64,9 @@
         <mxCell id="jvHZAF-E1gi5jQqXjgzX-36" value="Sistema de&lt;br&gt;harmonização" style="shape=ellipse;html=1;dashed=0;whitespace=wrap;aspect=fixed;perimeter=ellipsePerimeter;" parent="1" vertex="1">
           <mxGeometry x="320" y="100" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jvHZAF-E1gi5jQqXjgzX-85" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="jvHZAF-E1gi5jQqXjgzX-40" target="jvHZAF-E1gi5jQqXjgzX-103" edge="1">
+        <mxCell id="jvHZAF-E1gi5jQqXjgzX-85" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="jvHZAF-E1gi5jQqXjgzX-40" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="350" y="355" as="targetPoint" />
+            <mxPoint x="350" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="jvHZAF-E1gi5jQqXjgzX-40" value="Casos transfronteiriços" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;" parent="1" vertex="1">
@@ -116,15 +119,13 @@
         <mxCell id="jvHZAF-E1gi5jQqXjgzX-102" value="BEH Paludisme&lt;br&gt;&lt;font color=&quot;#3399ff&quot;&gt;com situação transfronteiriça&lt;/font&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;dashed=0;flipH=1;" parent="1" vertex="1">
           <mxGeometry x="400" y="510" width="100" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="jvHZAF-E1gi5jQqXjgzX-133" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;strokeWidth=2;fontColor=#000000;fillColor=#60a917;strokeColor=#2D7600;" parent="1" source="jvHZAF-E1gi5jQqXjgzX-103" target="jvHZAF-E1gi5jQqXjgzX-112" edge="1">
+        <mxCell id="jvHZAF-E1gi5jQqXjgzX-133" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;strokeWidth=2;fontColor=#000000;fillColor=#60a917;strokeColor=#2D7600;" parent="1" source="uglfD_iep2MTShB7ONu6-110" target="jvHZAF-E1gi5jQqXjgzX-112" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="325" y="550" />
+              <mxPoint x="260" y="530" />
             </Array>
+            <mxPoint x="325" y="400" as="sourcePoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="jvHZAF-E1gi5jQqXjgzX-103" value="&lt;span style=&quot;&quot;&gt;Portal de dados&lt;br&gt;https://shiny.icict.fiocruz.br/publicirdmalaria/&lt;br&gt;&lt;/span&gt;" style="html=1;dashed=0;whitespace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="300" y="350" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="uglfD_iep2MTShB7ONu6-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jvHZAF-E1gi5jQqXjgzX-105" target="jvHZAF-E1gi5jQqXjgzX-38">
           <mxGeometry relative="1" as="geometry" />
@@ -135,7 +136,7 @@
         <mxCell id="jvHZAF-E1gi5jQqXjgzX-107" value="Dados&lt;br&gt;epidemiológicos&lt;br&gt;transfronteiriços&lt;br&gt;(harmonizados)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="540" y="340" width="110" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="jvHZAF-E1gi5jQqXjgzX-108" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#1ba1e2;strokeColor=#006EAF;strokeWidth=2;endArrow=none;" parent="1" source="jvHZAF-E1gi5jQqXjgzX-103" target="jvHZAF-E1gi5jQqXjgzX-107" edge="1">
+        <mxCell id="jvHZAF-E1gi5jQqXjgzX-108" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#1ba1e2;strokeColor=#006EAF;strokeWidth=2;endArrow=none;" parent="1" source="uglfD_iep2MTShB7ONu6-110" target="jvHZAF-E1gi5jQqXjgzX-107" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="400" y="375" as="sourcePoint" />
             <mxPoint x="670" y="315" as="targetPoint" />
@@ -194,7 +195,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="tVp76IYYDZpWvyA0d9KN-2" value="DAAC" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="1500" y="720" width="120" height="60" as="geometry" />
+          <mxGeometry x="1510" y="605" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tVp76IYYDZpWvyA0d9KN-3" value="DPAC" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-1240" y="480" width="120" height="60" as="geometry" />
@@ -252,11 +253,8 @@
         <mxCell id="EUtzxWtZwwkgCGraURxW-18" value="FIM" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.start;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="-374" y="245" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="EUtzxWtZwwkgCGraURxW-33" value="" style="html=1;dashed=0;whitespace=wrap;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="540" y="1070" width="100" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="EUtzxWtZwwkgCGraURxW-34" value="Agentes participando à vigilância comunitária ???" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="650" y="1080" width="290" height="30" as="geometry" />
+        <mxCell id="EUtzxWtZwwkgCGraURxW-33" value="Agentes participando&lt;br&gt;à vigilância&lt;br&gt;comunitária ???" style="html=1;dashed=0;whitespace=wrap;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="340" y="-276" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="uglfD_iep2MTShB7ONu6-1" value="" style="html=1;dashed=1;whitespace=wrap;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="879" y="-20" width="448" height="90" as="geometry" />
@@ -328,7 +326,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uglfD_iep2MTShB7ONu6-106" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="uglfD_iep2MTShB7ONu6-20" target="uglfD_iep2MTShB7ONu6-104">
+        <mxCell id="uglfD_iep2MTShB7ONu6-106" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;endArrow=open;endFill=0;dashed=1;" edge="1" parent="1" source="uglfD_iep2MTShB7ONu6-20" target="uglfD_iep2MTShB7ONu6-104">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1410" y="50" />
@@ -568,7 +566,7 @@
             <mxPoint x="6" y="16" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uglfD_iep2MTShB7ONu6-77" value="Agents&lt;br&gt;de terrain&lt;br&gt;(CTG/SDD)" style="html=1;dashed=0;whitespace=wrap;fillColor=none;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="uglfD_iep2MTShB7ONu6-77" value="Agents&lt;br&gt;de terrain&lt;br&gt;(CTG/SDD)" style="html=1;dashed=0;whitespace=wrap;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1713" y="121.99000000000001" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="uglfD_iep2MTShB7ONu6-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="uglfD_iep2MTShB7ONu6-80" target="uglfD_iep2MTShB7ONu6-73">
@@ -648,6 +646,15 @@
         </mxCell>
         <mxCell id="uglfD_iep2MTShB7ONu6-104" value="SP-Fr /&lt;br&gt;CIRE Guyane" style="html=1;dashed=0;whitespace=wrap;" vertex="1" parent="1">
           <mxGeometry x="868" y="675" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="uglfD_iep2MTShB7ONu6-108" value="Início do fluxo" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.start;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="350" y="-320" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uglfD_iep2MTShB7ONu6-110" value="&lt;span style=&quot;&quot;&gt;Portal de dados&lt;/span&gt;&lt;br style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;https://shiny.icict.fiocruz.br/publicirdmalaria/&lt;/span&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;dashed=0;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="350" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="uglfD_iep2MTShB7ONu6-111" value="Mídia de informações/dados" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;dashed=0;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="-215" width="100" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
