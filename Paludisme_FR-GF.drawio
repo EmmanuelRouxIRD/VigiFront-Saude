@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-08T13:20:18.115Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="tZRMqlm9RukZeChdlqSi" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-08T13:22:56.918Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="2IsC8KGjUFDbulKT6Wty" version="20.6.0" type="github">
   <diagram id="g7fYQ90FhEnoCOdFYeij" name="Page-1">
     <mxGraphModel dx="1355" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="soGgQo1d9cTRyv0vqCLj-78" value="" style="html=1;dashed=1;whitespace=wrap;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="890" y="520" width="160" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="soGgQo1d9cTRyv0vqCLj-1" value="Casos GF-FR (CHC/CDPS)" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;" parent="1" vertex="1">
+        <mxCell id="soGgQo1d9cTRyv0vqCLj-1" value="CHC/CDPS" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;" parent="1" vertex="1">
           <mxGeometry x="95" y="524.99" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="soGgQo1d9cTRyv0vqCLj-3" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=none;exitX=0.5;exitY=-0.011;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="soGgQo1d9cTRyv0vqCLj-36" target="soGgQo1d9cTRyv0vqCLj-16" edge="1">
