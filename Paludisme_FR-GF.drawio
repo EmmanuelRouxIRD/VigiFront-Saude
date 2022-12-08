@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-08T12:51:39.725Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="LOMp3ivYe2pCxpGjylDY" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-08T12:53:54.432Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="KIDqkSRj6m-ZX-5BQeO7" version="20.6.0" type="github">
   <diagram id="g7fYQ90FhEnoCOdFYeij" name="Page-1">
     <mxGraphModel dx="1355" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -39,11 +39,26 @@
         <mxCell id="n1sZ7gGWq_7eU4WZFnXG-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="soGgQo1d9cTRyv0vqCLj-11" target="n1sZ7gGWq_7eU4WZFnXG-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="n1sZ7gGWq_7eU4WZFnXG-9" value="Mensuellement :&lt;br&gt;Nombre de cas hebdomadaires,&lt;br&gt;par espèce plasmodiale" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="n1sZ7gGWq_7eU4WZFnXG-4">
+          <mxGeometry x="0.2326" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="n1sZ7gGWq_7eU4WZFnXG-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="soGgQo1d9cTRyv0vqCLj-11" target="n1sZ7gGWq_7eU4WZFnXG-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="n1sZ7gGWq_7eU4WZFnXG-10" value="Mensuellement :&lt;br&gt;Nombre de cas hebdomadaires,&lt;br&gt;par espèce plasmodiale" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="n1sZ7gGWq_7eU4WZFnXG-5">
+          <mxGeometry x="0.196" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="n1sZ7gGWq_7eU4WZFnXG-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="soGgQo1d9cTRyv0vqCLj-11" target="n1sZ7gGWq_7eU4WZFnXG-3">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n1sZ7gGWq_7eU4WZFnXG-11" value="Mensuellement :&lt;br&gt;Nombre de cas hebdomadaires,&lt;br&gt;par espèce plasmodiale" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="n1sZ7gGWq_7eU4WZFnXG-6">
+          <mxGeometry x="0.1247" y="-4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="soGgQo1d9cTRyv0vqCLj-11" value="SP-Fr /&lt;br&gt;CIRE Guyane" style="html=1;dashed=0;whitespace=wrap;" parent="1" vertex="1">
           <mxGeometry x="660" y="539.99" width="100" height="50" as="geometry" />
