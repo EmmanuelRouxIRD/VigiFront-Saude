@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-12T13:26:07.919Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="yDHibKJvDpMivnRgjfzh" version="20.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-15T13:52:04.298Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="onxwisLNpz6HDuOV19bw" version="20.7.3" type="github">
   <diagram id="doegmiYLPW8GhtTB-VEN" name="Page-1">
-    <mxGraphModel dx="3009" dy="1946" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4388" dy="2727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -134,7 +134,7 @@
           <mxGeometry x="-50" y="-80" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jvHZAF-E1gi5jQqXjgzX-107" value="Dados&lt;br&gt;epidemiológicos&lt;br&gt;transfronteiriços&lt;br&gt;(harmonizados)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="540" y="340" width="110" height="70" as="geometry" />
+          <mxGeometry x="600" y="298.97" width="110" height="70" as="geometry" />
         </mxCell>
         <mxCell id="jvHZAF-E1gi5jQqXjgzX-108" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#1ba1e2;strokeColor=#006EAF;strokeWidth=2;endArrow=none;" parent="1" source="uglfD_iep2MTShB7ONu6-110" target="jvHZAF-E1gi5jQqXjgzX-107" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -271,7 +271,7 @@
         </mxCell>
         <mxCell id="uglfD_iep2MTShB7ONu6-4" value="Cas hebdomadaires&lt;br&gt;(non agrégés)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="uglfD_iep2MTShB7ONu6-3" vertex="1" connectable="0">
           <mxGeometry x="-0.1687" relative="1" as="geometry">
-            <mxPoint x="-15" as="offset" />
+            <mxPoint x="6" y="29" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="uglfD_iep2MTShB7ONu6-5" value="Base de données&lt;br&gt;Cas&lt;br&gt;CHC/CDPS" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;" parent="1" vertex="1">
@@ -341,7 +341,7 @@
         <mxCell id="uglfD_iep2MTShB7ONu6-20" value="SP-Fr /&lt;br&gt;CIRE Guyane" style="html=1;dashed=0;whitespace=wrap;" parent="1" vertex="1">
           <mxGeometry x="1453" y="-0.009999999999990905" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="uglfD_iep2MTShB7ONu6-21" value="CNR Paludisme" style="html=1;dashed=0;whitespace=wrap;" parent="1" vertex="1">
+        <mxCell id="uglfD_iep2MTShB7ONu6-21" value="IPG/&lt;br&gt;CNR Paludisme" style="html=1;dashed=0;whitespace=wrap;" parent="1" vertex="1">
           <mxGeometry x="1217" y="-226" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="uglfD_iep2MTShB7ONu6-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=none;" parent="1" source="uglfD_iep2MTShB7ONu6-53" target="uglfD_iep2MTShB7ONu6-21" edge="1">
@@ -616,7 +616,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="uglfD_iep2MTShB7ONu6-89" value="ARS Guyane" style="html=1;dashed=0;whitespace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="1953" y="-5" width="100" height="50" as="geometry" />
+          <mxGeometry x="1963" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="uglfD_iep2MTShB7ONu6-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=12;dashed=1;" parent="1" source="uglfD_iep2MTShB7ONu6-92" target="uglfD_iep2MTShB7ONu6-73" edge="1">
           <mxGeometry relative="1" as="geometry" />
