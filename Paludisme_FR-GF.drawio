@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-01-24T17:49:15.255Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="B9iVv9HdvfM-rZqXKV3K" version="20.8.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-24T18:15:01.634Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="h6o5_c7kNcVAZRe6KEdx" version="20.8.6" type="github">
   <diagram id="g7fYQ90FhEnoCOdFYeij" name="Page-1">
-    <mxGraphModel dx="2930" dy="1198" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2930" dy="1091" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -350,7 +350,7 @@
         <mxCell id="0BxKxRSpmN7JtVQ8fGr3-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;fontColor=#000000;startArrow=none;startFill=0;endArrow=classic;endFill=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="0BxKxRSpmN7JtVQ8fGr3-34" target="0BxKxRSpmN7JtVQ8fGr3-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0BxKxRSpmN7JtVQ8fGr3-6" value="Equipe mobile" style="html=1;dashed=0;whitespace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="0BxKxRSpmN7JtVQ8fGr3-6" value="Equipes mobiles&lt;br&gt;(Pôle des CDPS)" style="html=1;dashed=0;whitespace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="245" y="840" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="0BxKxRSpmN7JtVQ8fGr3-7" value="&lt;b&gt;&lt;i&gt;Légende&lt;/i&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;align=center;verticalAlign=top;fillColor=default;" vertex="1" parent="1">
