@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-01-24T17:08:56.130Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="mIuP65leymjHGGB7GV6q" version="20.8.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-24T17:12:17.249Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="hh6AwvwEm2YlRSqzpmg7" version="20.8.6" type="github">
   <diagram id="g7fYQ90FhEnoCOdFYeij" name="Page-1">
-    <mxGraphModel dx="2930" dy="1198" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2930" dy="1091" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -128,31 +128,16 @@
             <mxPoint x="1190" y="603.9700000000003" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="n1sZ7gGWq_7eU4WZFnXG-26" value="&lt;span style=&quot;background-color: rgb(248, 249, 250);&quot;&gt;Données patients&lt;/span&gt;&lt;br style=&quot;background-color: rgb(248, 249, 250);&quot;&gt;&lt;span style=&quot;background-color: rgb(248, 249, 250);&quot;&gt;Résultats TDR,&lt;/span&gt;&lt;br style=&quot;background-color: rgb(248, 249, 250);&quot;&gt;&lt;span style=&quot;background-color: rgb(248, 249, 250);&quot;&gt;Circonstance de l&#39;infection, ...&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" parent="soGgQo1d9cTRyv0vqCLj-28" vertex="1" connectable="0">
-          <mxGeometry x="0.319" y="-2" relative="1" as="geometry">
-            <mxPoint x="-18" y="19" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="soGgQo1d9cTRyv0vqCLj-29" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=-15;exitPerimeter=0;" parent="1" source="soGgQo1d9cTRyv0vqCLj-62" target="soGgQo1d9cTRyv0vqCLj-25" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1320" y="465" as="targetPoint" />
             <mxPoint x="1320" y="603.9700000000003" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="n1sZ7gGWq_7eU4WZFnXG-27" value="&lt;span style=&quot;background-color: rgb(248, 249, 250);&quot;&gt;Données patients&lt;/span&gt;&lt;br style=&quot;background-color: rgb(248, 249, 250);&quot;&gt;&lt;span style=&quot;background-color: rgb(248, 249, 250);&quot;&gt;Résultats TDR,&lt;/span&gt;&lt;br style=&quot;background-color: rgb(248, 249, 250);&quot;&gt;&lt;span style=&quot;background-color: rgb(248, 249, 250);&quot;&gt;Circonstance de l&#39;infection, ...&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" parent="soGgQo1d9cTRyv0vqCLj-29" vertex="1" connectable="0">
-          <mxGeometry x="0.3961" relative="1" as="geometry">
-            <mxPoint x="20" y="24" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="soGgQo1d9cTRyv0vqCLj-30" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=-15;exitPerimeter=0;" parent="1" source="soGgQo1d9cTRyv0vqCLj-63" target="soGgQo1d9cTRyv0vqCLj-27" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1450" y="465" as="targetPoint" />
             <mxPoint x="1450" y="603.9700000000003" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="n1sZ7gGWq_7eU4WZFnXG-28" value="&lt;span style=&quot;background-color: rgb(248, 249, 250);&quot;&gt;Données patients&lt;/span&gt;&lt;br style=&quot;background-color: rgb(248, 249, 250);&quot;&gt;&lt;span style=&quot;background-color: rgb(248, 249, 250);&quot;&gt;Résultats TDR,&lt;/span&gt;&lt;br style=&quot;background-color: rgb(248, 249, 250);&quot;&gt;&lt;span style=&quot;background-color: rgb(248, 249, 250);&quot;&gt;Circonstance de l&#39;infection, ...&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" parent="soGgQo1d9cTRyv0vqCLj-30" vertex="1" connectable="0">
-          <mxGeometry x="0.4499" y="-2" relative="1" as="geometry">
-            <mxPoint x="54" y="29" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="soGgQo1d9cTRyv0vqCLj-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=1.022;exitY=0.498;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="soGgQo1d9cTRyv0vqCLj-32" target="soGgQo1d9cTRyv0vqCLj-21" edge="1">
