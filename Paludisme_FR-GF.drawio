@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-16T08:44:54.627Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="vQLfzBnmImWLkfz-l3p1" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-16T12:25:43.938Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="sRb-mVTWccButjeO2lRF" version="20.8.20" type="github">
   <diagram id="g7fYQ90FhEnoCOdFYeij" name="Page-1">
-    <mxGraphModel dx="2434" dy="806" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4845" dy="1948" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -76,6 +76,9 @@
         </mxCell>
         <mxCell id="soGgQo1d9cTRyv0vqCLj-11" value="SP-Fr /&lt;br&gt;CIRE Guyane" style="html=1;dashed=0;whitespace=wrap;" parent="1" vertex="1">
           <mxGeometry x="660" y="539.99" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="B1FECNCcKLdafd96bGU7-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;startArrow=none;" edge="1" parent="1" source="B1FECNCcKLdafd96bGU7-9" target="B1FECNCcKLdafd96bGU7-4">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="soGgQo1d9cTRyv0vqCLj-12" value="CNR Paludisme" style="html=1;dashed=0;whitespace=wrap;" parent="1" vertex="1">
           <mxGeometry x="424" y="314" width="100" height="50" as="geometry" />
@@ -410,6 +413,27 @@
         </mxCell>
         <mxCell id="0BxKxRSpmN7JtVQ8fGr3-34" value="&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="shape=ellipse;html=1;dashed=0;whitespace=wrap;aspect=fixed;perimeter=ellipsePerimeter;fillColor=none;align=center;labelPosition=center;verticalLabelPosition=middle;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="440" y="1095" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="B1FECNCcKLdafd96bGU7-7" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="581" y="1280" width="109.5" height="112.5" as="geometry" />
+        </mxCell>
+        <mxCell id="B1FECNCcKLdafd96bGU7-4" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Ecoles des zones&lt;br&gt;de transmission&lt;br&gt;&lt;/font&gt;" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.home;" vertex="1" parent="B1FECNCcKLdafd96bGU7-7">
+          <mxGeometry width="109.5" height="112.5" as="geometry" />
+        </mxCell>
+        <mxCell id="B1FECNCcKLdafd96bGU7-1" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;labelBackgroundColor=none;fontSize=18;strokeWidth=3;" vertex="1" parent="B1FECNCcKLdafd96bGU7-7">
+          <mxGeometry x="34.75" y="35" width="21" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="B1FECNCcKLdafd96bGU7-2" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;labelBackgroundColor=none;fontSize=18;strokeWidth=3;" vertex="1" parent="B1FECNCcKLdafd96bGU7-7">
+          <mxGeometry x="52.75" y="29" width="21" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="B1FECNCcKLdafd96bGU7-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;endArrow=none;" edge="1" parent="1" source="soGgQo1d9cTRyv0vqCLj-12" target="B1FECNCcKLdafd96bGU7-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="524" y="339" as="sourcePoint" />
+            <mxPoint x="636" y="1280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B1FECNCcKLdafd96bGU7-9" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Messages de sensibilisation&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="552.25" y="372" width="167" height="34" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
