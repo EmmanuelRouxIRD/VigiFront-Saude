@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-17T17:18:59.765Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="ukqIShP4Bps1u4aGndnh" version="21.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-17T17:20:33.967Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="yJLPuwDJs33Bk2AZLQ6s" version="21.0.2" type="github">
   <diagram id="g7fYQ90FhEnoCOdFYeij" name="Page-1">
     <mxGraphModel dx="2435" dy="916" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -174,15 +174,15 @@
         <mxCell id="soGgQo1d9cTRyv0vqCLj-38" value="Données patients&lt;br&gt;Résultats TDR,&lt;br&gt;Circonstance de l&#39;infection, ..." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="158" y="675" width="174" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="soGgQo1d9cTRyv0vqCLj-40" value="Données&lt;br&gt;de la vigilance&lt;br&gt;syndromique (lundi)&lt;br&gt;(données individuelles pseudonymisées)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="594" y="647.99" width="234" height="70" as="geometry" />
+        <mxCell id="soGgQo1d9cTRyv0vqCLj-40" value="Données&lt;br&gt;de la vigilance&lt;br&gt;syndromique (lundi)&lt;br&gt;(données individuelles pseudonymisées)&lt;br&gt;extrait automatisé de la base, avec lieu présumé de contamination" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="526" y="640.99" width="370" height="84" as="geometry" />
         </mxCell>
-        <mxCell id="soGgQo1d9cTRyv0vqCLj-41" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;elbow=vertical;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#e51400;strokeColor=#000000;entryX=0.497;entryY=1.025;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="soGgQo1d9cTRyv0vqCLj-5" target="soGgQo1d9cTRyv0vqCLj-40" edge="1">
+        <mxCell id="soGgQo1d9cTRyv0vqCLj-41" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;elbow=vertical;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#e51400;strokeColor=#000000;entryX=0.535;entryY=0.008;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="soGgQo1d9cTRyv0vqCLj-1" target="soGgQo1d9cTRyv0vqCLj-40" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="525" y="655" as="sourcePoint" />
             <mxPoint x="545" y="267.5" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="670" y="785" />
+              <mxPoint x="440" y="626" />
             </Array>
           </mxGeometry>
         </mxCell>
