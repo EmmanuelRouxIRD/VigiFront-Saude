@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-06T14:45:20.339Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="CiMSlkwIUXETvjJ96dad" version="21.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-06T17:02:29.605Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="mioww5EvOMPYeMJZKIP-" version="21.6.1" type="github">
   <diagram id="g7fYQ90FhEnoCOdFYeij" name="Page-1">
     <mxGraphModel dx="2567" dy="1179" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -236,7 +236,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="soGgQo1d9cTRyv0vqCLj-58" value="&lt;font color=&quot;#000000&quot;&gt;résultats laboratoire (accessible via SISV2, pas d&#39;info ajoutée à la base consultations)&lt;br&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+        <mxCell id="soGgQo1d9cTRyv0vqCLj-58" value="&lt;font color=&quot;#000000&quot;&gt;résultats laboratoire (accessible via SISV2, pas d&#39;info ajoutée aux bases consultations / observations)&lt;br&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="310" y="565" width="100" height="123.99" as="geometry" />
         </mxCell>
         <mxCell id="soGgQo1d9cTRyv0vqCLj-59" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;" parent="1" source="soGgQo1d9cTRyv0vqCLj-16" target="soGgQo1d9cTRyv0vqCLj-58" edge="1">
