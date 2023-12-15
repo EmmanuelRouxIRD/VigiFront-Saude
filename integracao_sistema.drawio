@@ -1,9 +1,301 @@
-<mxfile host="app.diagrams.net" modified="2023-12-15T06:41:07.293Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" version="22.1.9" etag="tiSzIGwxHdKofk5TYLx2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-15T06:59:40.841Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="VpZe7X9NSHcjxy1VBIzl" version="22.1.9" type="github">
   <diagram name="Page-1" id="qaMfYeFaqJegAqio4kjd">
-    <mxGraphModel>
+    <mxGraphModel dx="3105" dy="2467" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="crvka2P-HU-Vg22QQD_I-1" value="" style="whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=none;gradientColor=#FFFFFF;gradientDirection=north;" vertex="1" parent="1">
+          <mxGeometry x="-620" y="130" width="1340" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="crvka2P-HU-Vg22QQD_I-3" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;dashed=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="110" y="320" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="crvka2P-HU-Vg22QQD_I-6" value="" style="html=1;dashed=1;whitespace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;align=left;" vertex="1" parent="1">
+          <mxGeometry x="551" y="-189" width="160" height="102" as="geometry" />
+        </mxCell>
+        <mxCell id="crvka2P-HU-Vg22QQD_I-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="crvka2P-HU-Vg22QQD_I-10" target="crvka2P-HU-Vg22QQD_I-42">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="417" y="-815.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="121" y="-220" />
+              <mxPoint x="-340" y="-220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="crvka2P-HU-Vg22QQD_I-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="crvka2P-HU-Vg22QQD_I-12" target="crvka2P-HU-Vg22QQD_I-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="crvka2P-HU-Vg22QQD_I-12" value="IPG" style="html=1;dashed=0;whitespace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-79" y="-23.00999999999999" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="crvka2P-HU-Vg22QQD_I-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;startArrow=none;" edge="1" parent="1" source="crvka2P-HU-Vg22QQD_I-5" target="crvka2P-HU-Vg22QQD_I-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-44.999999999999545" y="-235.00000000000045" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="crvka2P-HU-Vg22QQD_I-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="crvka2P-HU-Vg22QQD_I-25" target="crvka2P-HU-Vg22QQD_I-28">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="932" y="-101.01000000000022" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="crvka2P-HU-Vg22QQD_I-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=none;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="crvka2P-HU-Vg22QQD_I-43" target="crvka2P-HU-Vg22QQD_I-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="crvka2P-HU-Vg22QQD_I-16" value="(semanal)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="crvka2P-HU-Vg22QQD_I-15">
+          <mxGeometry x="0.1864" relative="1" as="geometry">
+            <mxPoint x="50" y="27" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="crvka2P-HU-Vg22QQD_I-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="crvka2P-HU-Vg22QQD_I-17" target="crvka2P-HU-Vg22QQD_I-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="178" y="95" as="sourcePoint" />
+            <mxPoint x="466" y="-545" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="crvka2P-HU-Vg22QQD_I-19" value="(semanal)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="crvka2P-HU-Vg22QQD_I-18">
+          <mxGeometry x="0.511" y="-1" relative="1" as="geometry">
+            <mxPoint x="-4" y="20" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="crvka2P-HU-Vg22QQD_I-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="crvka2P-HU-Vg22QQD_I-22" target="crvka2P-HU-Vg22QQD_I-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="crvka2P-HU-Vg22QQD_I-21" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="crvka2P-HU-Vg22QQD_I-22" target="crvka2P-HU-Vg22QQD_I-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="201.00000000000045" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="crvka2P-HU-Vg22QQD_I-22" value="Médicos&lt;br&gt;independentes" style="html=1;dashed=0;whitespace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="266.51" y="178.01" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="crvka2P-HU-Vg22QQD_I-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="crvka2P-HU-Vg22QQD_I-5" target="crvka2P-HU-Vg22QQD_I-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="117" y="-264" as="sourcePoint" />
+            <mxPoint x="221" y="-510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="crvka2P-HU-Vg22QQD_I-24" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="crvka2P-HU-Vg22QQD_I-25" target="crvka2P-HU-Vg22QQD_I-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="crvka2P-HU-Vg22QQD_I-25" value="CTG" style="html=1;dashed=0;whitespace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="416" y="178.01" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="crvka2P-HU-Vg22QQD_I-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="crvka2P-HU-Vg22QQD_I-47" target="crvka2P-HU-Vg22QQD_I-38">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="591" y="-220" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="crvka2P-HU-Vg22QQD_I-27" value="&amp;nbsp;(trimestrial)&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="crvka2P-HU-Vg22QQD_I-26">
+          <mxGeometry x="0.8695" y="3" relative="1" as="geometry">
+            <mxPoint x="1" y="34" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="crvka2P-HU-Vg22QQD_I-28" value="ARS Guyane" style="html=1;dashed=0;whitespace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="577" y="-163" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="crvka2P-HU-Vg22QQD_I-30" value="&lt;b&gt;&lt;i&gt;Légende&lt;/i&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;align=center;verticalAlign=top;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-364" y="480" width="285" height="209" as="geometry" />
+        </mxCell>
+        <mxCell id="crvka2P-HU-Vg22QQD_I-31" value="Pessoa, organização&lt;br&gt;ou serviço em&lt;br&gt;contato direto com a&lt;br&gt;população em geral" style="html=1;dashed=0;whitespace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-209" y="528" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="crvka2P-HU-Vg22QQD_I-32" value="Pessoa,&lt;br&gt;organização&lt;br&gt;ou serviço" style="html=1;dashed=0;whitespace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-335" y="528" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="crvka2P-HU-Vg22QQD_I-33" value="População das áreas transfronteiriças" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;labelBackgroundColor=none;fontSize=18;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="134" y="330" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="crvka2P-HU-Vg22QQD_I-34" value="Ação" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=none;strokeWidth=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="-335" y="596" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="crvka2P-HU-Vg22QQD_I-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="crvka2P-HU-Vg22QQD_I-37" target="crvka2P-HU-Vg22QQD_I-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="433" y="-575" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="316" y="-60" />
+              <mxPoint x="146" y="-60" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="crvka2P-HU-Vg22QQD_I-36" value="(semanal)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="crvka2P-HU-Vg22QQD_I-35">
+          <mxGeometry x="-0.147" y="-3" relative="1" as="geometry">
+            <mxPoint x="49" y="43" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="crvka2P-HU-Vg22QQD_I-37" value="Labo. de análises&lt;br&gt;médicas&lt;br&gt;independentes" style="html=1;dashed=0;whitespace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="266.01" y="20" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="crvka2P-HU-Vg22QQD_I-38" value="OPAS/OMS" style="html=1;dashed=0;whitespace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="579" y="-308" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="crvka2P-HU-Vg22QQD_I-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=classic;endFill=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="crvka2P-HU-Vg22QQD_I-51" target="crvka2P-HU-Vg22QQD_I-40">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1182" y="-210" as="sourcePoint" />
+            <mxPoint x="-293" y="763" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="crvka2P-HU-Vg22QQD_I-40" value="&lt;div style=&quot;&quot;&gt;Reuniões mensais&lt;/div&gt;&lt;div style=&quot;&quot;&gt;sobre a atualidade epidemiológica,&lt;/div&gt;&lt;div style=&quot;&quot;&gt;com a SVS-AP&lt;/div&gt;&lt;div style=&quot;&quot;&gt;(no âmbito do projeto&lt;/div&gt;&lt;div style=&quot;&quot;&gt;de centro transfronteiriço&lt;/div&gt;&lt;div style=&quot;&quot;&gt;de vigilância e resposta&lt;/div&gt;&lt;div style=&quot;&quot;&gt;epidemiológicas 2022-2026)&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/div&gt;" style="shape=ellipse;html=1;dashed=0;whitespace=wrap;aspect=fixed;perimeter=ellipsePerimeter;fillColor=none;align=center;labelPosition=center;verticalLabelPosition=middle;verticalAlign=middle;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-589" y="-330" width="147" height="147" as="geometry" />
+        </mxCell>
+        <mxCell id="crvka2P-HU-Vg22QQD_I-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=classic;startArrow=classic;startFill=1;endFill=1;" edge="1" parent="1" source="crvka2P-HU-Vg22QQD_I-10" target="crvka2P-HU-Vg22QQD_I-51">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="458" y="-591" as="sourcePoint" />
+            <mxPoint x="696" y="-553" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="crvka2P-HU-Vg22QQD_I-43" value="FAG" style="html=1;dashed=0;whitespace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="135" y="20" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="crvka2P-HU-Vg22QQD_I-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="crvka2P-HU-Vg22QQD_I-47" target="crvka2P-HU-Vg22QQD_I-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="crvka2P-HU-Vg22QQD_I-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="crvka2P-HU-Vg22QQD_I-47" target="crvka2P-HU-Vg22QQD_I-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="crvka2P-HU-Vg22QQD_I-47" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Ministère de la santé&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="551" y="-189" width="156" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="crvka2P-HU-Vg22QQD_I-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-159" y="68.99000000000024" as="sourcePoint" />
+            <mxPoint x="-159" y="68.99000000000024" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="crvka2P-HU-Vg22QQD_I-49" value="&lt;div style=&quot;text-align: left; font-size: 14px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Acronymes&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;EMSPeC : Equipes mobiles&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;de santé&amp;nbsp;publique&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;en communes&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;CDPS : Centres délocalisés de prévention et de soin&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;CHC : Centre hospitalier de Cayenne&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;FAG : Forces armées de Guyane&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;LHUPM : Labo. hospitalo universitaire&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-family: tahoma; font-size: 13px; background-color: rgb(255, 255, 255);&quot;&gt;de parasito-mycologie&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;SPR : Santé publique France&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;CIRE : Cellule d&#39;intervention en région&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;ARS : Agence régionale de santé&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;CTG : Collectivité territoriale de la Guyane&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;SDD : services de la Direction de la démoustication et des actions de santé&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;IPG : Institut Pasteur de la Guyane&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;CNR : Centre national de référence&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;OPAS : Organisation pan-américaine de la santé&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;OMS : Organisation mondiale de la santé&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;BEH : Bulletin épidémiologique hebdomadaire&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;SILAV : Système d&#39;information de la lutte anti-vectorielle&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;CHOG : Centre hospitalier de l&#39;ouest guyanais&lt;/span&gt;&lt;/div&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="480" width="442" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="crvka2P-HU-Vg22QQD_I-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=classic;endFill=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="crvka2P-HU-Vg22QQD_I-28" target="crvka2P-HU-Vg22QQD_I-51">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="748" y="-150" as="sourcePoint" />
+            <mxPoint x="-1112" y="-882" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="crvka2P-HU-Vg22QQD_I-51" value="Plateforme de veille&lt;br&gt;et de gestion sanitaire&lt;br&gt;(ARS, SPF, CHC/enfermeiro-a-s&lt;br&gt;(reuniões semanais)" style="html=1;dashed=0;whitespace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="271" y="-197" width="225" height="116" as="geometry" />
+        </mxCell>
+        <mxCell id="crvka2P-HU-Vg22QQD_I-52" value="(semanal)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-189.004968397099" y="-20.0021491013365" as="geometry" />
+        </mxCell>
+        <mxCell id="crvka2P-HU-Vg22QQD_I-53" value="(Semanal)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="220.995031602901" y="-138.0021491013365" as="geometry">
+            <mxPoint x="1" y="-6" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="crvka2P-HU-Vg22QQD_I-54" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="crvka2P-HU-Vg22QQD_I-29" target="crvka2P-HU-Vg22QQD_I-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="crvka2P-HU-Vg22QQD_I-55" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="crvka2P-HU-Vg22QQD_I-8" target="crvka2P-HU-Vg22QQD_I-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="crvka2P-HU-Vg22QQD_I-56" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="crvka2P-HU-Vg22QQD_I-17" target="crvka2P-HU-Vg22QQD_I-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="crvka2P-HU-Vg22QQD_I-57" value="(semanal)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-79.00496839709899" y="-230.0021491013365" as="geometry">
+            <mxPoint x="-167" y="11" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="crvka2P-HU-Vg22QQD_I-58" value="" style="endArrow=open;startArrow=open;html=1;rounded=0;strokeWidth=9;startFill=0;endFill=0;sourcePerimeterSpacing=0;startSize=20;endSize=20;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="740" y="430" as="sourcePoint" />
+            <mxPoint x="740" y="-310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="crvka2P-HU-Vg22QQD_I-59" value="Atores mais distais" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontStyle=1;rotation=270;" vertex="1" parent="1">
+          <mxGeometry x="660" y="-163" width="210" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="crvka2P-HU-Vg22QQD_I-60" value="Atores mais proximais" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontStyle=1;rotation=270;" vertex="1" parent="1">
+          <mxGeometry x="645" y="250" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="crvka2P-HU-Vg22QQD_I-69" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;gradientColor=none;opacity=70;" vertex="1" parent="1">
+          <mxGeometry x="-620" y="-340" width="1340" height="770" as="geometry" />
+        </mxCell>
+        <mxCell id="crvka2P-HU-Vg22QQD_I-4" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Hospitais&lt;/font&gt;&lt;/b&gt;" style="html=1;dashed=1;whitespace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="-259" y="100" width="410" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="crvka2P-HU-Vg22QQD_I-5" value="CHC" style="html=1;dashed=0;whitespace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;verticalAlign=top;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-249" y="140" width="230" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="crvka2P-HU-Vg22QQD_I-7" value="" style="html=1;dashed=1;whitespace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;align=left;" vertex="1" parent="1">
+          <mxGeometry x="41.00999999999999" y="-189" width="160" height="102" as="geometry" />
+        </mxCell>
+        <mxCell id="crvka2P-HU-Vg22QQD_I-8" value="CDPS" style="html=1;dashed=0;whitespace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-129" y="170" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="crvka2P-HU-Vg22QQD_I-10" value="CIRE Guyane" style="html=1;dashed=0;whitespace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="71.00999999999999" y="-163" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="crvka2P-HU-Vg22QQD_I-17" value="CHOG" style="html=1;dashed=0;whitespace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="38.01" y="180" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="crvka2P-HU-Vg22QQD_I-29" value="EMSPeC" style="html=1;dashed=0;whitespace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-239" y="170" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="crvka2P-HU-Vg22QQD_I-42" value="Boletins epidemiológicos" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;dashed=0;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="-390" y="-143" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="crvka2P-HU-Vg22QQD_I-44" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;SPF&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="38.00999999999999" y="-190" width="45" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="crvka2P-HU-Vg22QQD_I-64" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;fillColor=#60a917;strokeColor=#2D7600;" edge="1" parent="1" source="crvka2P-HU-Vg22QQD_I-7" target="crvka2P-HU-Vg22QQD_I-42">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="81" y="-128" as="sourcePoint" />
+            <mxPoint x="-435" y="30" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="crvka2P-HU-Vg22QQD_I-68" value="&lt;b style=&quot;border-color: var(--border-color); color: rgb(51, 102, 0); font-size: 20px;&quot;&gt;Integra uma descrição&lt;br&gt;da situação&lt;br&gt;&lt;i&gt;transfronteiriça&lt;/i&gt;&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="crvka2P-HU-Vg22QQD_I-64">
+          <mxGeometry x="0.466" y="1" relative="1" as="geometry">
+            <mxPoint x="72" y="-21" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="crvka2P-HU-Vg22QQD_I-62" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;strokeWidth=3;fillColor=#60a917;strokeColor=#2D7600;" edge="1" parent="1" target="crvka2P-HU-Vg22QQD_I-61">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="270" y="-80" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="crvka2P-HU-Vg22QQD_I-67" value="&lt;font color=&quot;#336600&quot; style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Consulta&lt;/b&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="crvka2P-HU-Vg22QQD_I-62">
+          <mxGeometry x="0.4244" y="1" relative="1" as="geometry">
+            <mxPoint x="-56" y="11" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="crvka2P-HU-Vg22QQD_I-63" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;strokeWidth=3;fillColor=#60a917;strokeColor=#2D7600;" edge="1" parent="1" source="crvka2P-HU-Vg22QQD_I-5" target="crvka2P-HU-Vg22QQD_I-61">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="81" y="-128" as="sourcePoint" />
+            <mxPoint x="-435" y="50" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="crvka2P-HU-Vg22QQD_I-71" value="&lt;b style=&quot;border-color: var(--border-color); color: rgb(51, 102, 0); font-size: 20px;&quot;&gt;Alimenta,&lt;br&gt;consulta&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="crvka2P-HU-Vg22QQD_I-63">
+          <mxGeometry x="0.2504" y="-1" relative="1" as="geometry">
+            <mxPoint x="21" y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="crvka2P-HU-Vg22QQD_I-2" value="Vigilância transfronteiriça" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EDEDED;dashed=1;dashPattern=12 12;verticalAlign=top;align=left;fontSize=20;fontStyle=1;strokeOpacity=100;fillOpacity=70;" vertex="1" parent="1">
+          <mxGeometry x="-610" y="-400" width="189" height="840" as="geometry" />
+        </mxCell>
+        <mxCell id="crvka2P-HU-Vg22QQD_I-66" value="Centro transfronteiriço de vigilância e resposta epidemiológicas" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-585" y="-243" width="139.5" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="crvka2P-HU-Vg22QQD_I-61" value="Sistema de harmonização e visualização da saúde transfronteiriça" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="-585.5" y="11" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="crvka2P-HU-Vg22QQD_I-65" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;fillColor=#60a917;strokeColor=#2D7600;" edge="1" parent="1" target="crvka2P-HU-Vg22QQD_I-61">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-730" y="41" as="sourcePoint" />
+            <mxPoint x="-750" y="91" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="crvka2P-HU-Vg22QQD_I-74" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;fillColor=#60a917;strokeColor=#2D7600;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="crvka2P-HU-Vg22QQD_I-66" target="crvka2P-HU-Vg22QQD_I-61">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-360" y="20" as="sourcePoint" />
+            <mxPoint x="-435" y="41" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="crvka2P-HU-Vg22QQD_I-75" value="&lt;font color=&quot;#336600&quot; style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Consulta,&lt;br&gt;mantém, ...&lt;/b&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" vertex="1" connectable="0" parent="crvka2P-HU-Vg22QQD_I-74">
+          <mxGeometry x="0.4244" y="1" relative="1" as="geometry">
+            <mxPoint x="-71" y="-47" as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
